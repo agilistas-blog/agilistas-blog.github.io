@@ -15,3 +15,6 @@ github_username:  agilistas-blog
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA-77284682-1
