@@ -7,7 +7,7 @@ tags:
 
 What: Group blogging from the women-in-tech-perspective
 
-Who: Women in tech and their allies in all roles (not just developers!)
+Who: Women in tech and their allies in all roles (not just developers!) New contributors *always* welcome :)
 
 Where: Via pull request at [https://github.com/agilistas-blog/agilistas-blog.github.io](https://github.com/agilistas-blog/agilistas-blog.github.io) (or email them to me and I can make the pull request for you, or walk you through learning to create one)
 
