@@ -9,7 +9,7 @@ If you don't want to do any of this, email me your post or put it in the doc at 
 
 OR
 
-After having your github account added to the github organization, use http://prose.io/ to edit the post file
+After having your github account added to the github organization, use http://prose.io/ to edit the post file, for example http://prose.io/#agilistas-blog/agilistas-blog.github.io/edit/master/_posts/2016-05-03-introduction.md
 
 OR
 
