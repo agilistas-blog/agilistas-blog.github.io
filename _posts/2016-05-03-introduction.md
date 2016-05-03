@@ -15,7 +15,7 @@ Why: To practice writing, to express ourselves, to hear about the cool ideas of 
 
 How: With your input!
 
-History: previously at [http://agilistaconfessions.blogspot.com/](http://agilistaconfessions.blogspot.com/)
+History: previously at [http://agilistaconfessions.blogspot.com/](http://agilistaconfessions.blogspot.com/) (I migrated the old posts over)
 
 
 ### Some questions:
