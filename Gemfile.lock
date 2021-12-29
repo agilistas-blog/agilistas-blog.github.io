@@ -53,7 +53,6 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    stringex (2.8.5)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thor (1.1.0)
@@ -65,7 +64,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  stringex
   thor
   webrick
 
